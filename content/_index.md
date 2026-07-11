@@ -34,11 +34,11 @@ if report.MeetsSecurityFloor() {
 
 `SecurityLevel` is a three-value scale:
 
-| Level | Meaning |
-| --- | --- |
-| `SecurityStrict` | Strong authentication posture. |
-| `SecurityModerate` | Partial posture. |
-| `SecurityWeak` | Little or no authentication. |
+| Level              | Meaning                        |
+| ------------------ | ------------------------------ |
+| `SecurityStrict`   | Strong authentication posture. |
+| `SecurityModerate` | Partial posture.               |
+| `SecurityWeak`     | Little or no authentication.   |
 
 ## Injection seams
 
